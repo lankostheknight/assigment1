@@ -4,14 +4,14 @@ body {
 }
 
 .nav-bar {
-  background-color: yellow;
+  background-color: orange;
   color: aliceblue;
   padding: 20px;
   text-align: center;
 }
 
 .footer {
-  background-color: black;
+  background-color: blue;
   color: aliceblue;
   padding: 20px;
   text-align: center;
